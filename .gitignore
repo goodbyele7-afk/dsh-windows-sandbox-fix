@@ -1,0 +1,8 @@
+# support tree artefacts
+node_modules/
+node.exe
+.extract-test/
+
+# scratch
+*.log
+*.tmp
